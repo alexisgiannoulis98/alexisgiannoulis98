@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alexisgiannoulis98
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning react
+- 👋 Hi, I’m Alexis
+- 👀 interested in web development 
+- 🌱 currently learning react
 
 <!---
 alexisgiannoulis98/alexisgiannoulis98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
